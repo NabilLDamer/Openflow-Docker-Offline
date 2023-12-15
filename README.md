@@ -28,7 +28,7 @@ cd Openflow-old
 ```shell
 .\offline-up.bat
 ```
-## Run in VSCode terminal
+## Open in web browser
 ```shell
 http://localhost.openiap.io
 ```
