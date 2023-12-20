@@ -14,7 +14,7 @@ It is recommended you allocate at least 4GB of RAM to docker:
 - [Instructions for Windows](https://docs.docker.com/docker-for-windows/#resources)
 - [Instructions for macOS](https://docs.docker.com/docker-for-mac/#resources)
 
-## Run in VSCode terminal
+## Run in terminal / open in VSCode
 
 Clone and change directory to frappe_docker directory
 
