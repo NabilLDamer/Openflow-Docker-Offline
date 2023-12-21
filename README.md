@@ -46,6 +46,7 @@ http://localhost.openiap.io
 
 <br>
 <b>Now edit the hosts file using nodepad or any other editor(use administrator mode) and make following changes</b>
+
 ![DNS setup](image/hosts_2.jpeg)
 <b>Now save the file</b>
 
