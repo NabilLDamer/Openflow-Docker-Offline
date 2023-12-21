@@ -40,7 +40,7 @@ It is recommended you allocate at least 4GB of RAM to docker:
 Clone and change directory to frappe_docker directory
 
 ```shell
-git clone git@github.com:oyasizaki/Openflow-old.git
+git clone git@github.com:oyasizaki/Openflow-Docker.git
 cd Openflow-old
 ```
 ```shell
