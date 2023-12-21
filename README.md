@@ -41,7 +41,7 @@ Clone and change directory to frappe_docker directory
 
 ```shell
 git clone git@github.com:oyasizaki/Openflow-Docker.git
-cd Openflow-old
+cd Openflow-Docker
 ```
 ```shell
 .\offline-pull.bat
