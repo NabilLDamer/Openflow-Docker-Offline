@@ -21,8 +21,8 @@ services:
     volumes: # see options https://docs.docker.com/registry/configuration/
       - "./docker-registry-config.yml:/etc/docker/registry/config.yml"
       # We are going to use Docker for offline cache stroage
-      - registry_cache:/var/lib/registry
+      - "registry_cache_local:/var/lib/registry"
       # - "./offline/cache:/var/lib/registry"
 volumes:
-  registry_cache:
+  registry_cache_local:
     driver: local
